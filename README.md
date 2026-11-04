@@ -14,7 +14,7 @@ Currently focused on software development, web applications, databases and proce
   <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css,mysql,sqlite,git,arduino,vscode&perline=6" />
 </p>
 
-### 📊 My Skills
+### My Skills
 
 | Technology | Level |
 |:---|:---|
@@ -45,7 +45,7 @@ Currently focused on software development, web applications, databases and proce
       Desktop application built with Python and SQLite.
     </td>
     <td width="50%">
-      <h3>⚙️ Business Automation</h3>
+      <h3> Business Automation</h3>
       Solutions for inventory, invoicing and administrative processes.
     </td>
   </tr>
