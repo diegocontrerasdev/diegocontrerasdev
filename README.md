@@ -59,15 +59,6 @@ Currently focused on software development, web applications, databases and proce
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegocontrerasdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocontrerasdev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### Currently Learning
 
 - Backend development
