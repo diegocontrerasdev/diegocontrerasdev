@@ -77,9 +77,9 @@ Currently focused on software development, web applications, databases and proce
 
 ### Contact
 
- Guatemala City, Guatemala
- Email: diego.contreras.dev@gmail.com
- LinkedIn: YOUR_LINKEDIN
+ - Guatemala City, Guatemala
+ - Email: diego.contreras.dev@gmail.com
+ - LinkedIn: YOUR_LINKEDIN
 
 ---
 
