@@ -62,8 +62,8 @@ Currently focused on software development, web applications, databases and proce
 ### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegocontrerasdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocontrerasdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,11 +75,11 @@ Currently focused on software development, web applications, databases and proce
 - Cybersecurity
 - Software architecture
 
-###📫 Contact
+### Contact
 
-- 📍 Guatemala City, Guatemala
-- 📧 Email: diego.contreras.dev@gmail.com
-- 💼 LinkedIn: YOUR_LINKEDIN
+ Guatemala City, Guatemala
+ Email: diego.contreras.dev@gmail.com
+ LinkedIn: YOUR_LINKEDIN
 
 ---
 
