@@ -1,4 +1,4 @@
-# Hey, I'm Diego Contreras!
+#  I'm Diego Contreras!
 
 ### Junior Software Developer | Guatemala 🇬🇹
 
@@ -63,14 +63,13 @@ Currently focused on software development, web applications, databases and proce
 
 - Backend development
 - Database optimization
-- Cybersecurity
 - Software architecture
 
 ### Contact
 
  - Guatemala City, Guatemala
  - Email: diego.contreras.dev@gmail.com
- - LinkedIn: YOUR_LINKEDIN
+
 
 ---
 
